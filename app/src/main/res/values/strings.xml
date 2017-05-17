@@ -6,4 +6,11 @@
 <string name="texto_boton_cierto">cierto!</string >
 
 <string name="texto_boton_falso">falso!</string >
+
+    <string name ="texto_correcto">¡correcto!</string>
+    <string name="texto_incorrecto">¡incorrecto!</string>
+
+
 </resources>
+
+
