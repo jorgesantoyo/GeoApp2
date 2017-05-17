@@ -1,0 +1,9 @@
+
+<resources>
+    <string name="app_name">GeoApp</string>
+<string name="texto_pregunta">¿ls prninsula de yucatan se encuentra en el norte  de mexico?</string >
+
+<string name="texto_boton_cierto">cierto!</string >
+
+<string name="texto_boton_falso">falso!</string >
+</resources>
