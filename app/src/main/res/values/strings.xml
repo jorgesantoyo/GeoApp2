@@ -9,8 +9,16 @@
 
     <string name ="texto_correcto">¡correcto!</string>
     <string name="texto_incorrecto">¡incorrecto!</string>
+    <string name="texto_incorrecto">¡incorrecto!</string>
 
 
+
+    <string name ="texto_boton_siguiente_1">sigueinte</string>
+    <string name ="texto_pregunta_1">la peninsula de yucatan esta en el norte de mexico?</string>
+    <string name ="texto_pregunta_2">nuestro sistema solar esta en la via lactea ?</string>
+    <string name ="texto_pregunta_3">el oceano mas grande  de nuestro planeta  es el oceano pacifico?</string>
+    <string name ="texto_pregunta_4">los vientos alisios soplan del noroeste al sureste ?</string>
+    <string name ="texto_pregunta_5">el estado mas grande de nuestra republica mexicana es sonora?</string>
 </resources>
 
 
